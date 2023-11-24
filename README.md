@@ -102,7 +102,7 @@ Após isso você irá abrir uma pasta do seu projeto, e irá criar uma pasta cha
 
 <h1>Perfil #catsoninstagram</h1>
 
-<img src=“images/nome_da_sua_imagem.jpg” />
+<img src=“imagens/nome_da_sua_imagem.jpg” />
 
 </body>
 
