@@ -49,7 +49,7 @@ GitHub é um serviço popular de compartilhamento de código social baseado na W
 Agora que já entendemos o que é um versionamento, o ambiente de linhas de comando git e o ambiente gráfico do GitHub, vamos criar uma pasta com o nome do projeto da sua escolha e um arquivo chamado index.html
 
 A seguir você irá adicionar o seguinte conteúdo ao arquivo:
-
+````
 <!DOCTYPE html>
 
 <html lang=“pt-br”>
@@ -69,7 +69,7 @@ A seguir você irá adicionar o seguinte conteúdo ao arquivo:
 </body>
 
 </html>
-
+````
 Copied!
 
 Na sequência você irá subir o seu projeto para o GitHub.
@@ -85,7 +85,7 @@ Na sequência você irá subir o seu projeto para o GitHub.
 Após isso você irá abrir uma pasta do seu projeto, e irá criar uma pasta chamada imagens, procure no Google por uma imagem de cachorro e salve dentro dessa nova pasta criada. Feito isso, irá abrir seu arquivo index.html e irá adicionar as seguintes modificações e salve o arquivo:
 
 
-
+````
 <!DOCTYPE html>
 
 <html lang=“pt-br”>
@@ -107,3 +107,4 @@ Após isso você irá abrir uma pasta do seu projeto, e irá criar uma pasta cha
 </body>
 
 </html>
+````
